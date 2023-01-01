@@ -166,7 +166,7 @@
 | [pcr大乱斗](https://github.com/eggggi/pcr_scrimmage) | [@eggggi](https://github.com/eggggi) | 群内小游戏。选择你的角色，和群友击剑（可自定义角色） |2021-11-22 16:44:34|
 | [雀魂Majsoul插件](https://github.com/DaiShengSheng/Majsoul_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 雀魂插件(打麻将真开心啊) |2022-12-07 23:48:49|
 |[积分系统(底层方法实现)](https://github.com/pcrbot/scoresystem)| [@corvo007](https://github.com/corvo007)|积分系统(底层方法实现)|2021-11-21 00:05:18|
-| [扫雷游戏](https://github.com/eggggi/mine_sweeper) <!--cont.-->| [@eggggi](https://github.com/eggggi) | 群内小游戏 |2021-10-21 11:23:58|
+| [扫雷游戏](https://github.com/eggggi/mine_sweeper) | [@eggggi](https://github.com/eggggi) | 群内小游戏 |2021-10-21 11:23:58|
 | [群昵称同步](https://github.com/wosiwq/groupname_sync) | [@wosiwq](https://github.com/wosiwq) | 可自动同步yobot中的周 目与第几个王到群昵称，方便的提醒群员进度 |2021-05-27 20:31:41|
 | [计算jjc排名爬升排名的最优解](https://github.com/wbero/pcrjjc_optimal-path) | [@wbero](https://github.com/wbero) | 计 算jjc排名爬升排名的最优解 |2021-05-18 14:31:09|
 | [出刀贡献以权重来计算排名](https://github.com/Tcelps/pcr_maofen) | [@Tcelps](https://github.com/Tcelps) | 人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名 |2021-05-14 09:33:35|
@@ -195,7 +195,7 @@
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
 | [FF14](https://github.com/zangxx66/HoshinoBot-xcwRecord#pcr无关) | [@zangxx66](https://github.com/zangxx66) | 钓鱼笔记、钓鱼日记、钓鱼区域 |2022-11-22 21:09:39|
 | [群管](https://github.com/zangxx66/HoshinoBot-xcwRecord#聊天) | [@zangxx66](https://github.com/zangxx66) | 迫害龙王、 申请头衔等 |2022-11-22 21:09:39|
-| [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) | [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-11-22 21:09:39|
+| [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) <!--cont.-->| [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-11-22 21:09:39|
 | [骂我](https://github.com/zangxx66/HoshinoBot-xcwRecord#xcw再骂我一次) | [@zangxx66](https://github.com/zangxx66) | 播放 xcw 骂人语音 |2022-11-22 21:09:39|
 | [海豹杀手](https://github.com/GWYOG/GWYOG-Hoshino-plugins#9-海豹杀手pcrsealkiller) | [@GWYOG](https://github.com/GWYOG) | 禁言晒卡 |2022-09-16 01:46:14|
 | [戳一戳集卡](https://github.com/GWYOG/GWYOG-Hoshino-plugins#8-戳机器人集卡小游戏pokemanpcr) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
