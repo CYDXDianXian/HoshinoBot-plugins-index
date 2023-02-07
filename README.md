@@ -170,12 +170,12 @@
 | [群昵称同步](https://github.com/wosiwq/groupname_sync) | [@wosiwq](https://github.com/wosiwq) | 可自动同步yobot中的周 目与第几个王到群昵称，方便的提醒群员进度 |2021-05-27 20:31:41|
 | [计算jjc排名爬升排名的最优解](https://github.com/wbero/pcrjjc_optimal-path) | [@wbero](https://github.com/wbero) | 计 算jjc排名爬升排名的最优解 |2021-05-18 14:31:09|
 | [出刀贡献以权重来计算排名](https://github.com/Tcelps/pcr_maofen) | [@Tcelps](https://github.com/Tcelps) | 人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名 |2021-05-14 09:33:35|
-| [最优击剑路径](https://github.com/wosiwq/arena_route) <!--cont.-->| [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优 击剑路径 |2021-05-15 18:59:45|
+| [最优击剑路径](https://github.com/wosiwq/arena_route) | [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优 击剑路径 |2021-05-15 18:59:45|
 | [赛马娘新闻播报](https://github.com/azmiao/umamusume_news) | [@azmiao](https://github.com/azmiao) | 赛马娘新闻播报插件（大佬们快去写插件，别养马了） |2022-06-19 21:16:51|
 | [今天吃什么](https://github.com/A-kirami/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什 么什么么 |2022-09-17 22:01:30|
 | [淦翻译](https://github.com/daycold1000/guaihua.jpg) | [@daycold1000](https://github.com/daycold1000) | 一个翻译娱乐功能，能把正常的对...对话台词变得奇...奇怪怪...... |仓库已失效|
 | [惠惠爆裂魔法](https://github.com/pcrbot/Explosion) | [@Soung2279](https://github.com/Soung2279) | 惠惠爆裂魔法语音， 有文字匹配 |2021-08-20 02:15:18|
-| [代刀私聊插件](https://github.com/sdyxxjj123/Daidao) | [@sdyxxjj123](https://github.com/sdyxxjj123) | 记录正在代刀，代挂树，暂停伤害，锁助战等 |2021-10-26 10:34:53|
+| [代刀私聊插件](https://github.com/sdyxxjj123/Daidao) <!--cont.-->| [@sdyxxjj123](https://github.com/sdyxxjj123) | 记录正在代刀，代挂树，暂停伤害，锁助战等 |2021-10-26 10:34:53|
 | [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |2021-04-03 16:43:58|
 | [setuweb](https://github.com/MiaoXia0/setuweb) | [@MiaoXia0](https://github.com/MiaoXia0)|使用web端的在线setu插件 |2022-08-19 10:35:41|
 | [碧蓝档案](https://github.com/azmiao/bluearchive_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 由Hoshino修 改的碧蓝档案blue archive插件 |2021-08-15 18:25:47|
