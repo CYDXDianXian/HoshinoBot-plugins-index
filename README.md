@@ -29,7 +29,7 @@
 | [E7装备分](https://github.com/BlackTitle/HoshinoBOT_E7score) | [@BlackTitle](https://github.com/BlackTitle) | 第七史诗简陋算分工具 |2022-08-22 21:00:47|
 | [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |2022-11-05 19:55:06|
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
-| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2023-12-22 13:48:19|
+| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2024-01-02 12:58:32|
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
 | [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
 | [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2023-06-02 08:47:00|
@@ -238,7 +238,7 @@
 | [命运 2](https://github.com/pcrbot/Destiny2) | [@xhl6666](https://github.com/xhl6666) | |2021-02-24 23:51:49|
 | [网抑云](https://github.com/pcrbot/hiumsentences) | [@var-mixer](https://github.com/var-mixer) | 网抑云语录 |2020-11-11 15:12:44|
 | [生日](https://github.com/pcrbot/birthday) | [@ZforVendetta](https://github.com/ZforVendetta) | 角色生日提醒、查询 |2021-01-06 14:01:59|
-| [搜番](https://github.com/pcrbot/cappuccilo_plugins#以图搜番) <!--cont.-->| [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
+| [搜番](https://github.com/pcrbot/cappuccilo_plugins#以图搜番) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
 | [以图搜图](https://github.com/pcrbot/cappuccilo_plugins#以图搜图) | [@Cappuccilo](https://github.com/Cappuccilo) | SauceNAO 识图 |2021-07-16 16:55:47|
 | [生成器](https://github.com/pcrbot/cappuccilo_plugins#生成器插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 营 销号、狗屁不通、记仇、无中生友、舔狗日记 |2021-07-16 16:55:47|
 | [黑名单](https://github.com/pcrbot/cappuccilo_plugins#拉黑插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 拉黑 指定成员 |2021-07-16 16:55:47|
