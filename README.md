@@ -59,7 +59,7 @@
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
-| [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 |2025-01-13 13:25:54|
+| [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 |2025-04-20 13:32:30|
 | [yobot多人申请出刀版](https://github.com/fengjk12138/yobot) | [@fengjk12138](https://github.com/fengjk12138) | 支持多人申请出刀、更新伤害信息等操作，方便筛刀和观察进入人数 |2022-09-21 21:43:38|
 | [补偿轴计算器](https://github.com/OREOCODEDEV/pcr_time_calculator) | [@OREOCODEDEV](https://github.com/OREOCODEDEV) | 计算返还时间下对应的时间轴 |2022-05-19 01:48:05|
 | [计算器](https://github.com/OREOCODEDEV/bot_calculator) | [@OREOCODEDEV](https://github.com/OREOCODEDEV) | 计算群聊中的四则运算消息 |2022-04-30 14:28:51|
@@ -67,7 +67,7 @@
 | [定时提醒摸鱼](https://github.com/benx1n/when2holiday) | [@benx1n](https://github.com/benx1n) | 含剩余假期的定时提醒摸鱼小助手 |2022-10-25 15:43:03|
 | [hoshinobot-plugin-ddcheck](https://github.com/benx1n/hoshinobot-plugin-ddcheck) | [@MeetWq](https://github.com/MeetWq)[@benx1n](https://github.com/benx1n) | 移植自[nonebot-plugin-ddcheck](https://github.com/noneplugin/nonebot-plugin-ddcheck)的DD成分姬插件，支持生成含牌子等级的关注列表图片 |2023-06-12 14:19:49|
 | [股票查询](https://github.com/SonderXiaoming/stock-check) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 满足群友上班边摸鱼边炒股的要求 |2022-09-10 10:56:09|
-| [tarot_hoshino_plus](https://github.com/assassingyk/tarot_hoshino_plus) | [@assassingyk](https://github.com/assassingyk) | 增强版可自定义牌阵卡图的塔罗牌插件 |2022-04-12 10:30:49|
+| [tarot_hoshino_plus](https://github.com/assassingyk/tarot_hoshino_plus) <!--cont.-->| [@assassingyk](https://github.com/assassingyk) | 增强版可自定义牌阵卡图的塔罗牌插件 |2022-04-12 10:30:49|
 | [查牌子](https://github.com/DYS763/paizi) | [@DYS763](https://github.com/DYS763) | 用uid查询B站粉丝牌与对应的主播 |2022-04-06 08:52:39|
 | [群二维码识别](https://github.com/yuyumoko/hoshino-print-qrcode) | [@yuyumoko](https://github.com/yuyumoko) | 发二维码的能不能照顾一下PC端啊 |2022-11-01 03:29:51|
 | [服务器信息查询（Linux版）](https://github.com/pcrbot/sys_stats_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询服务器的平台、CPU、内存、硬盘信息。Windows平台下面有更好的 |2022-04-01 16:53:00|
