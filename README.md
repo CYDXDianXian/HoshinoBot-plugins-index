@@ -120,7 +120,7 @@
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2024-09-14 14:17:29|
 | [b站dd程度](https://github.com/pcrbot/vtb-bili) | [@G41mywaifu](https://github.com/G41mywaifu) | 这个b到底关注了多少vtb |2021-12-08 18:40:23|
 | [名词实体信息查询](https://github.com/pcrbot/descr_entity_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 对一个名词进行解释 |2021-12-01 16:13:47|
-| [色图打分](https://github.com/pcrbot/SetuScore)  <!--cont.-->| [@HMScygnet](https://github.com/HMScygnet) | 为你的色图进行打分 |2021-10-20 16:04:44|
+| [色图打分](https://github.com/pcrbot/SetuScore)  | [@HMScygnet](https://github.com/HMScygnet) | 为你的色图进行打分 |2021-10-20 16:04:44|
 | [FGO日历](https://github.com/NepPure/fgo_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格FGO日历，数据源B服官网新闻 |2021-12-29 20:56:08|
 | [网页截图](https://github.com/pcrbot/pagecut) | [@G41mywaifu](https://github.com/G41mywaifu) | 发送指定网页的页面截图 |2022-11-26 16:43:35|
 | [vtbuber名单查询](https://github.com/Soung2279/vdb_list) | [@Soung2279](https://github.com/Soung2279) | 以[VTuber Database](https://github.com/dd-center/vdb)为数据来源的vtuber查询功能，查询某人是否为vtb，并给出相关信息。可模糊匹配|2021-10-26 15:12:12|
@@ -139,7 +139,7 @@
 | [群友生日祝贺插件](https://github.com/pcrbot/mem_birthday) | [@azmiao](https://github.com/azmiao) | 祝贺群友生日快乐 |2023-08-21 08:57:43|
 | [有道智云翻译](https://github.com/pcrbot/youdao_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 基于有道智云的翻译插件 |2021-12-01 16:13:47|
 | [reminder](https://github.com/assassingyk/reminder) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格自定义定时提醒插件（三点几了.jpg） |2021-10-26 13:36:15|
-| [picfinder_take](https://github.com/pcrbot/picfinder_take) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
+| [picfinder_take](https://github.com/pcrbot/picfinder_take) <!--cont.-->| [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
 | [5000choyen](https://github.com/pcrbot/5000choyen) | [@assassingyk](https://github.com/assassingyk) | 5000兆円图片生成器（红字 白字.jpg） |2021-08-18 13:37:07|
 | [cp](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/cp) | [@scofieldle](https://github.com/scofieldle) | 土味情话小插件 |2022-06-21 09:49:47|
 | [MuseDashWiki](https://github.com/Soung2279/musewiki) | [@Soung2279](https://github.com/Soung2279) | 音游MuseDash(喵斯快跑)百科查询插件，好耶！是MD！|2022-05-15 13:20:16|
