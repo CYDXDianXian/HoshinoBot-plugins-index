@@ -101,7 +101,7 @@
 |[群友语录](https://github.com/kosakarin/group_quotations)| [@kosakarin](https://github.com/kosakarin) | 仿照朋友的bot写的一个上传图片到bot的功能 |2022-07-20 15:56:40|
 | [小鸡词典](https://github.com/zangxx66/jiwiki) | [@zangxx66](https://github.com/zangxx66) | 网络流行语词典，查询你不知道的那些梗或词语 |2022-06-19 10:06:19|
 | [novel_ai_kai](https://github.com/assassingyk/novel_ai_kai) | [@assassingyk](https://github.com/assassingyk) | 可分群设置key的彩云小梦小说AI续写插件 |2022-02-16 22:27:41|
-| [随机唐可可](https://github.com/kosakarin/hoshino_big_cockroach) <!--cont.-->| [@kosakarin](https://github.com/kosakarin) | 别问为什么和大蟑螂放一起，只是懒得单独开一个仓库了（） |2021-12-01 10:48:17|
+| [随机唐可可](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 别问为什么和大蟑螂放一起，只是懒得单独开一个仓库了（） |2021-12-01 10:48:17|
 | [crazywords](https://github.com/zangxx66/crazywordsForHoshinoBot) | [@zangxx66](https://github.com/zangxx66) | 疯言疯语生成器，灵感来源[@Vieww](https://github.com/Vieww) |2021-11-23 23:33:44|
 | [闲聊反并发工具](https://github.com/lhhxxxxx/hoshino_tool) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 防止使用@sv.on_message('group')的插件在其他使用hoshino接口的插件被调用时触发 |2025-11-03 08:57:18|
 | [genshin_price](https://github.com/lhhxxxxx/genshin_price) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 查询账号估价 |2021-11-20 21:44:46|
@@ -141,7 +141,7 @@
 | [reminder](https://github.com/assassingyk/reminder) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格自定义定时提醒插件（三点几了.jpg） |2021-10-26 13:36:15|
 | [picfinder_take](https://github.com/pcrbot/picfinder_take) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
 | [5000choyen](https://github.com/pcrbot/5000choyen) | [@assassingyk](https://github.com/assassingyk) | 5000兆円图片生成器（红字 白字.jpg） |2021-08-18 13:37:07|
-| [cp](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/cp) | [@scofieldle](https://github.com/scofieldle) | 土味情话小插件 |2022-06-21 09:49:47|
+| [cp](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/cp) <!--cont.-->| [@scofieldle](https://github.com/scofieldle) | 土味情话小插件 |2022-06-21 09:49:47|
 | [MuseDashWiki](https://github.com/Soung2279/musewiki) | [@Soung2279](https://github.com/Soung2279) | 音游MuseDash(喵斯快跑)百科查询插件，好耶！是MD！|2022-05-15 13:20:16|
 | [blhx_wiki](https://github.com/Gaylone/blhx_wiki) | [@Gaylone](https://github.com/Gaylone) | 碧蓝航线wiki用于获取舰船信息，立绘，推荐出装等信息 |2023-06-18 15:23:30|
 | [clanbattle_info](https://github.com/cc004/clanbattle_info) | [@cc004](https://github.com/cc004) | 公主连结国服公会战数据查询及自动报刀插件 |2023-02-23 21:36:41|
