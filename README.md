@@ -115,7 +115,7 @@
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2025-01-26 11:28:56|
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
 | [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
-| [autocb](https://github.com/yoooowi/pcr_autocb) <!--cont.-->| [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
+| [autocb](https://github.com/yoooowi/pcr_autocb) | [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
 | [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) | [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2024-09-14 14:17:29|
 | [b站dd程度](https://github.com/pcrbot/vtb-bili) | [@G41mywaifu](https://github.com/G41mywaifu) | 这个b到底关注了多少vtb |2021-12-08 18:40:23|
@@ -159,7 +159,7 @@
 | [osuv2](https://github.com/Yuri-YuzuChaN/osuv2) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 音游osu查询插件v2api版本，新的发送方式及功能 |2023-09-15 15:51:55|
 | [台服会战排名查询](https://github.com/pcrbot/clan_search_tw) | [@azmiao](https://github.com/azmiao) | 查询台服的会战排名和档线（数据来自infedg.xyz和layvtwt.top） |2024-07-06 13:53:56|
 | [大司马发病评论](https://github.com/pcrbot/dasima) | [@Soung2279](https://github.com/Soung2279) | 大司马B站发病评论查看 |2021-08-20 02:44:42|
-| [服务器信息查询](https://github.com/pcrbot/advance_check_hoshinobot) | [@Soung2279](https://github.com/Soung2279) | 可快速查询bot搭载的服务器相关硬件信息 |2021-09-10 01:08:00|
+| [服务器信息查询](https://github.com/pcrbot/advance_check_hoshinobot) <!--cont.-->| [@Soung2279](https://github.com/Soung2279) | 可快速查询bot搭载的服务器相关硬件信息 |2021-09-10 01:08:00|
 | [算法竞赛开赛提醒](https://github.com/pcrbot/CodingReminder) | [@Lanly109](https://github.com/Lanly109) | 算法竞赛开赛提醒插件 |仓库已失效|
 | [词云](https://github.com/erweixi/wordcloud-hoshino) | [@erweixi](https://github.com/erweixi) | 基于聊天记录log而生成的词云 |2021-10-20 22:01:48|
 |[steam_crawler_bot](https://github.com/half-ghost/steam_crawler_bot)|[@half-ghost](https://github.com/half-ghost)|steam爬虫插件，拥有的功能为：以steam和小黑盒官网作为数据来源，爬取游戏搜索结果、steam游戏特惠、新品等信息。以it之家为数据来源的喜加一信息爬取。|2022-02-26 15:02:31|
