@@ -108,7 +108,7 @@
 | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi) | [@mahosho](https://github.com/mahosho) | img\n要我一直img吗 |2022-02-13 05:57:12|
 | [飞天大蟑螂](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 发送白底有随机数量随机旋转角度的飞天大蟑螂图片，我的建议是：别用！ |2021-12-01 10:48:17|
 | [磁力链搜索](https://github.com/half-ghost/bt_search)|[@half-ghost](https://github.com/half-ghost)|磁力链搜索插件。好耶！再也不怕找不到车了！（|2023-02-22 00:41:48|
-| [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) <!--cont.-->| [@菌落](https://github.com/C-Jun-GIT/Oreo)  [@咕咕鸽](https://github.com/Adminicoder)| 通过排列组合来自定义属于自己的奥利奥吧！ |2022-08-12 08:10:25|
+| [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) | [@菌落](https://github.com/C-Jun-GIT/Oreo)  [@咕咕鸽](https://github.com/Adminicoder)| 通过排列组合来自定义属于自己的奥利奥吧！ |2022-08-12 08:10:25|
 | [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
 | [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ |2023-05-07 08:37:59|
 | [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 |2023-05-06 19:09:35|
@@ -195,7 +195,7 @@
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
 | [FF14](https://github.com/zangxx66/HoshinoBot-xcwRecord#pcr无关) | [@zangxx66](https://github.com/zangxx66) | 钓鱼笔记、钓鱼日记、钓鱼区域 |2022-11-22 21:09:39|
 | [群管](https://github.com/zangxx66/HoshinoBot-xcwRecord#聊天) | [@zangxx66](https://github.com/zangxx66) | 迫害龙王、 申请头衔等 |2022-11-22 21:09:39|
-| [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) | [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-11-22 21:09:39|
+| [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) <!--cont.-->| [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-11-22 21:09:39|
 | [骂我](https://github.com/zangxx66/HoshinoBot-xcwRecord#xcw再骂我一次) | [@zangxx66](https://github.com/zangxx66) | 播放 xcw 骂人语音 |2022-11-22 21:09:39|
 | [海豹杀手](https://github.com/GWYOG/GWYOG-Hoshino-plugins#9-海豹杀手pcrsealkiller) | [@GWYOG](https://github.com/GWYOG) | 禁言晒卡 |2022-09-16 01:46:14|
 | [戳一戳集卡](https://github.com/GWYOG/GWYOG-Hoshino-plugins#8-戳机器人集卡小游戏pokemanpcr) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
